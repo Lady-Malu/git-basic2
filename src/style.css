@@ -1,3 +1,7 @@
 h1 {
-  font-normal
+  font-size: 19 px;
+}
+
+p {
+    color: green;
 }
